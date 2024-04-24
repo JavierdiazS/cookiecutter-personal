@@ -7,10 +7,10 @@
 El objetivo de este proyecto es potenciar el éxito de [Olist (E-commerce brasileña)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data) transformando los datos con acciones estratégicas como un análisis exhaustivo y el uso de herramientas avanzadas.
 
 ### Tabla de contenidos
-- [Resumen ejecutivo](#resumen)
+- [Resumen ejecutivo](#resumen_ejecutivo)
 - [Introducción](#introducción)
-- [Resultados logrados](#resultados)
-- [Guía de Instalación](#guía)
+- [Resultados logrados](#resultados_logrados)
+- [Guía de Instalación](#guía_de_Instalación)
 - [Referencias](#referencias)
 - [Licencia](#licencia)
 
