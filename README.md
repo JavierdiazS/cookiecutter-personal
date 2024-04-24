@@ -10,8 +10,8 @@ El objetivo de este proyecto es potenciar el éxito de [Olist (E-commerce brasil
 
 - [Resumen ejecutivo](#id1)
 - [Introducción](#introducción)
-- [Resultados logrados](#resultados_logrados)
-- [Guía de Instalación](#guía_de_Instalación)
+- [Resultados logrados](#id2)
+- [Guía de Instalación](#id3)
 - [Referencias](#referencias)
 - [Licencia](#licencia)
 
@@ -90,7 +90,7 @@ Para lograr el objetivo planeado, seguimos el siguiente roadmap:
 - **Validación de modelos**: Durante la validación de los modelos, se ajustan los hiperparámetros y se evalúa su rendimiento. El propósito es ajustar los hiperparámetros del modelo para obtener el mejor rendimiento posible en los datos de entrenamiento y validación.
 
 
-### Contexto del dataset:
+### Contexto del dataset
 
 [![arquitectura.png](https://i.postimg.cc/RZhMjgy1/arquitectura.png)](https://postimg.cc/3kM5GFKW)
 
@@ -100,7 +100,7 @@ Sus características permiten ver un pedido desde múltiples dimensiones: desde 
 
 Se trata de datos comerciales reales, se han puesto en anonimos y las referencias a las empresas y socios en el texto de la reseña se han sustituido por los nombres de las grandes casas de "Juego de Tronos"(Serie de TV).
 
-## Resultados logrados
+## Resultados logrados<a name="id2"></a>
 
 - [x]  Se obtuvo el dataset final **olist_df** en la etapa "Procesamiento de datos(Feature Engineer)" con el que se realizará todo:
 [![dataset-final.png](https://i.postimg.cc/JhvTxhCV/dataset-final.png)](https://postimg.cc/qtcXM47j)
@@ -111,7 +111,7 @@ Se trata de datos comerciales reales, se han puesto en anonimos y las referencia
 - [x]  Para predecir el precio del producto se hizo 4 modelos de aprendizaje "Supervisado" usando el problema de clasificación con los algoritmos de Red Neuronal, XGBoost, Regresión Lineal, Regresor de bosque aleatorio (Random Forest). Se selecciona el mejor según sus resultados, en este caso puede ser la red neuronal o el Regresor de bosque aleatorio:
 [![modelpredict.png](https://i.postimg.cc/0jfs44vs/modelpredict.png)](https://postimg.cc/7JfdGmbs)
 
-## Guía de Instalación
+## Guía de Instalación<a name="id3"></a>
 
 Lea [install.md](install.md) para obtener detalles sobre cómo configurar este proyecto.
 
